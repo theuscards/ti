@@ -14,9 +14,8 @@ Esta é uma análise que possibilita aos funcionários, de uma empresa do ramo d
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
+# Projeto para aplicação metódica
+
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
 Sprint | Previsão | Status|
@@ -33,12 +32,11 @@ Sprint | Previsão | Status|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo implementar processos dentro da empresa e solidificar o setor logístico com embasabento prático em ações que envolvam tecnologias de fácil acesso. Os objetivos específicos requerem competências a serem desenvolvidas para uma melhor compreensão dos funcionários durante a aplicação do processo, tais como:
+* Centralizar as demandas e solictações;
+* Identificar codificação de componentes;
+* Definir prazos e prioridade para novas solicitações;
+* Ponderar o uso de componentes após um período sem uso.
 
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
 
