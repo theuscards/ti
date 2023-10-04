@@ -136,4 +136,4 @@ Adicionar video e documentos nessa seção
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Autor |   Matheus Cardoso         |     [![Linkedin Badge]((https://www.linkedin.com/in/theuscards/)https://www.linkedin.com/in/theuscards/) [![GitHub Badge]
+| Autor |   Matheus Cardoso         |     [![Linkedin Badge]((https://www.linkedin.com/in/theuscards/)https://www.linkedin.com/in/theuscards/)
