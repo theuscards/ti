@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Como planejar um melhor fluxo de entrada e saída de materiais utilizando tecnologias e reduzindo o custo do estoque.
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
