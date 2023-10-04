@@ -1,8 +1,6 @@
 # Como planejar um melhor fluxo de entrada e saída de materiais utilizando tecnologias e reduzindo o custo do estoque.
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Esta é uma análise para possibilitar aos engenheiros um processo mais simples durante a requisição de algum material, para isso é feita uma análise que viabiliza o uso de softwares e ferramentas online gratuitas que simplificam o processo e geram indicadores, que podem ser alimentados com mais evidências decorrentes da aplicação tecnológica como um todo.
 
 # Índice
 
