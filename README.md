@@ -1,6 +1,6 @@
 # Como planejar um melhor fluxo de entrada e saída de materiais utilizando tecnologias e reduzindo o custo do estoque.
 
-Esta é uma análise para possibilitar aos engenheiros um processo mais simples durante a requisição de algum material, para isso é feita uma análise que viabiliza o uso de softwares e ferramentas online gratuitas que simplificam o processo e geram indicadores, que podem ser alimentados com mais evidências decorrentes da aplicação tecnológica como um todo.
+Esta é uma análise que possibilita aos funcionários, de uma empresa do ramo de engenharia aeronáutica, um processo mais simples durante a requisição de algum material armazenado no estoque, para foi feita análise que viabiliza o uso de softwares e ferramentas online gratuitas que simplificam o processo e geram indicadores, isso permite evidenciar o custo do estoque além de facilitar o controle de input e output dos materiais.
 
 # Índice
 
