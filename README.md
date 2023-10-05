@@ -37,15 +37,8 @@ Este projeto tem como objetivo implementar processos dentro da empresa e solidif
 * Identificar codificação de componentes;
 * Definir prazos e prioridade para novas solicitações;
 * Ponderar o uso de componentes após um período sem uso.
-
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+  
+![GitHub Visual](https://github.com/theuscards/ti/assets/126296067/4a6ce9c2-f0fd-495b-9f74-70c85708b47f)
 
 ## Tecnologias Utilizadas
 
