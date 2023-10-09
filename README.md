@@ -51,7 +51,7 @@ Este projeto tem como objetivo implementar processos dentro da empresa e solidif
 
 # Backlog do produto
 
-## Sprint 1. Concepção
+## Sprint 1. Treinamento
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
@@ -62,14 +62,14 @@ Este projeto tem como objetivo implementar processos dentro da empresa e solidif
 - [x] Criação do vídeo;
 - [x] Finalize e aprovação.
 
-## Sprint 2. Desenvolvimento do Projeto
+## Sprint 2. Aplicação 
 - [ ] Documento passo a passo;
 - [ ] Vídeo passo a passo;
 - [ ] Treinamento com os professores;
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
       
-## Sprint 3 . Implementação
+## Sprint 3 . Evidência de resultados
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
