@@ -57,10 +57,10 @@ Este projeto tem como objetivo implementar processos dentro da empresa e solidif
 - [x] Esboce o layout;
 - [x] Escolha cores e fontes;
 - [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Teste e revise;
+- [x] Documente instruções de uso;
+- [x] Criação do vídeo;
+- [x] Finalize e aprovação.
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
